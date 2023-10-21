@@ -8,6 +8,7 @@
 * `recognition`
   * Finger Vein USM (FV-USM) Database: [Link](http://drfendi.com/2015/12/05/fv-usm-database-download-page/) - pass: transkrian
   * Finger Vein (Kaggle): [Link](https://www.kaggle.com/datasets/ryeltsin/finger-vein)
+  * Vera Finger Vein: [link](https://zenodo.org/records/4575270)
 * `classification`
   * Road Surface Classification Dataset: [Link](https://thu-rsxd.com/rscd/)
   * VizWiz-Classification Dataset: [link](https://vizwiz.org/tasks-and-datasets/image-classification/)
