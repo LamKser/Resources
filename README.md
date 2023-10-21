@@ -14,3 +14,4 @@
   * VizWiz-Classification Dataset: [link](https://vizwiz.org/tasks-and-datasets/image-classification/)
 * `image-captioning`
   * VizWiz-Captions dataset: [link](https://vizwiz.org/tasks-and-datasets/image-captioning/)
+  * COCO 2015 Image Captioning Task: [link](https://cocodataset.org/#captions-2015)
