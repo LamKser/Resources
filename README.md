@@ -5,6 +5,10 @@
 * Deep Learning Project Template: [Link](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
 
 # Data
-* Finger Vein USM (FV-USM) Database: [Link](http://drfendi.com/2015/12/05/fv-usm-database-download-page/) - pass: transkrian
-* Finger Vein (Kaggle): [Link](https://www.kaggle.com/datasets/ryeltsin/finger-vein)
-* Road Surface Classification Dataset: [Link](https://thu-rsxd.com/rscd/)
+* `recognition`
+  * Finger Vein USM (FV-USM) Database: [Link](http://drfendi.com/2015/12/05/fv-usm-database-download-page/) - pass: transkrian
+  * Finger Vein (Kaggle): [Link](https://www.kaggle.com/datasets/ryeltsin/finger-vein)
+* `classification`
+  * Road Surface Classification Dataset: [Link](https://thu-rsxd.com/rscd/)
+* `image-captioning`
+  * VizWiz-Captions dataset: [link](https://vizwiz.org/tasks-and-datasets/image-captioning/)
