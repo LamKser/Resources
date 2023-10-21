@@ -10,6 +10,6 @@
   * Finger Vein (Kaggle): [Link](https://www.kaggle.com/datasets/ryeltsin/finger-vein)
 * `classification`
   * Road Surface Classification Dataset: [Link](https://thu-rsxd.com/rscd/)
-  * [VizWiz-Classification Dataset](https://vizwiz.org/tasks-and-datasets/image-classification/)
+  * VizWiz-Classification Dataset: [link](https://vizwiz.org/tasks-and-datasets/image-classification/)
 * `image-captioning`
   * VizWiz-Captions dataset: [link](https://vizwiz.org/tasks-and-datasets/image-captioning/)
