@@ -16,4 +16,4 @@
 * `image-captioning`
   * VizWiz-Captions dataset: [link](https://vizwiz.org/tasks-and-datasets/image-captioning/)
   * COCO 2015 Image Captioning Task: [link](https://cocodataset.org/#captions-2015)
-  * [UIT-ViIC: A Dataset for the First Evaluation on Vietnamese Image Captioning](https://drive.google.com/file/d/1YexKrE6o0UiJhFWpE8M5LKoe6-k3AiM4/view)
+  * UIT-ViIC: A Dataset for the First Evaluation on Vietnamese Image Captioning: [link](https://drive.google.com/file/d/1YexKrE6o0UiJhFWpE8M5LKoe6-k3AiM4/view)
