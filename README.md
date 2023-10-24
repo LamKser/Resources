@@ -17,5 +17,7 @@
   * VizWiz-Captions dataset: [link](https://vizwiz.org/tasks-and-datasets/image-captioning/)
   * COCO 2015 Image Captioning Task: [link](https://cocodataset.org/#captions-2015)
   * UIT-ViIC: A Dataset for the First Evaluation on Vietnamese Image Captioning: [link](https://drive.google.com/file/d/1YexKrE6o0UiJhFWpE8M5LKoe6-k3AiM4/view)
+* ``
+ * AI HCM challenge - Video retrieval: [link](https://docs.google.com/spreadsheets/d/16RlmhETs2YLuw5b4aP-bKD7c0DiDNDr0ZxOQfBS3-ks/htmlview?fbclid=IwAR1seO_E_awcNWenChTELCZxOLjAtj45D4wDNscwKa72kyX5zlENHUSBqkQ_aem_AZuSBoG9oqvH_oVCY7aYuFMURECjWbdnhe0hO6dzBfUsGKTUlhF6lalq6DR7wzRZnms#)
 * `None type`
   * Open Cities AI Challenge Dataset: [link](https://beta.source.coop/repositories/open-cities/ai-challenge/download/)
