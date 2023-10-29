@@ -1,4 +1,4 @@
 # Papers
 
 Collections of papers and codes
-* [Super-resolution](Papers/super_resolution.md)
+* [Super-resolution](super_resolution.md)
