@@ -4,6 +4,8 @@
 * An Introduction to Super-Resolution with Deep Learning, pt. 3: [Link](https://medium.com/@paren8esis/an-introduction-to-super-resolution-with-deep-learning-pt-3-ed85ec949ba8)
 * Deep Learning Project Template: [Link](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
 * How to Optimize a Deep Learning Model for faster Inference?: [Link](https://www.thinkautonomous.ai/blog/deep-learning-optimization/)
+
+[//]: # (Run pytorch model on mobile)
 <details open>
    <summary><b>Run pytorch model on mobile</b></summary>
    <ul>
@@ -12,6 +14,8 @@
     <li>PYTORCH MOBILE: <a href="https://pytorch.org/mobile/home/">link</a>
    </ul>
 </details>
+
+[//]: # (Learn)
 <details open>
    <summary><b>Learn</b></summary>
    <ul>
@@ -20,7 +24,13 @@
    </ul>
 </details>
 
-
+[//]: # (Arduino - Python)
+<details open>
+   <summary><b>Arduino - Python</b></summary>
+   <ul>
+    <li>Free Tutorials: Using Python with Arduino: <a href="https://youtube.com/playlist?list=PLGs0VKk2DiYzWURfJCbCGPa8HI0APjBfo&si=odo4fQ84F7i0lywy">Youtube</a>
+   </ul>
+</details>
 
 # Papers
 * [Papers](Papers)
