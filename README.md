@@ -5,7 +5,7 @@
 * Deep Learning Project Template: [Link](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
 * How to Optimize a Deep Learning Model for faster Inference?: [Link](https://www.thinkautonomous.ai/blog/deep-learning-optimization/)
 <details open>
-   <summary>Run pytorch model on mobile</summary>
+   <summary><b>Run pytorch model on mobile</b></summary>
    <ul>
     <li>Integrating Custom PyTorch Models Into an Android App: <a href="https://medium.com/mlearning-ai/integrating-custom-pytorch-models-into-an-android-app-a2cdfce14fe8">link</a>
     <li>Deep Learning on your phone - PyTorch Lite Interpreter for mobile platforms: <a href="https://towardsdatascience.com/deep-learning-on-your-phone-pytorch-lite-interpreter-for-mobile-platforms-ae73d0b17eaa">link</a>
@@ -13,7 +13,7 @@
    </ul>
 </details>
 <details open>
-   <summary>Learn</summary>
+   <summary><b>Learn</b></summary>
    <ul>
     <li>C++ Full Course for free ⚡️ - <b>Bro code: </b><a href="https://youtu.be/-TkoO8Z07hI?si=chZrX71qagkI3QVA">Youtube</a>
     <li>C++ Programming Course - Beginner to Advanced - <b>FreeCodeCamp: </b><a href="https://www.youtube.com/watch?v=8jLOx1hD3_o&list=PLwwBtBG9sP7BJ8xqz2fp6iZQurfz1BeJW&index=2&t=45947s&pp=gAQBiAQB">Youtube</a>
