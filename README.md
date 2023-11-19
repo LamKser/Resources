@@ -1,12 +1,14 @@
 # Resources
-* Install cuda toolkit, cudnn: [[Neptune.ai](https://neptune.ai/blog/installing-tensorflow-2-gpu-guide)]
-* PERFORMANCE TUNING GUIDE: [[Pytorch.org](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)]
-* An Introduction to Super-Resolution with Deep Learning, pt. 3: [[Medium](https://medium.com/@paren8esis/an-introduction-to-super-resolution-with-deep-learning-pt-3-ed85ec949ba8)]
+* Install cuda toolkit, cudnn - [[Neptune.ai](https://neptune.ai/blog/installing-tensorflow-2-gpu-guide)]
+* PERFORMANCE TUNING GUIDE - [[Pytorch.org](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)]
+* An Introduction to Super-Resolution with Deep Learning, pt. 3 - [[Medium](https://medium.com/@paren8esis/an-introduction-to-super-resolution-with-deep-learning-pt-3-ed85ec949ba8)]
 * Deep Learning Project Template: [[Github](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)]
-* How to Optimize a Deep Learning Model for faster Inference?: [[Thinkautonomous.ai](https://www.thinkautonomous.ai/blog/deep-learning-optimization/)]
-* Label Studio: Local Storage with Custom Import Task Format: [[YouTube](https://www.youtube.com/watch?v=lo6ncQajbdU&ab_channel=MaxTkachenko)]
+* How to Optimize a Deep Learning Model for faster Inference? - [[Thinkautonomous.ai](https://www.thinkautonomous.ai/blog/deep-learning-optimization/)]
+* Label Studio: Local Storage with Custom Import Task Format - [[YouTube](https://www.youtube.com/watch?v=lo6ncQajbdU&ab_channel=MaxTkachenko)]
 * An Introduction to Super Resolution Using Deep Learning - [[Topbots](https://www.topbots.com/super-resolution-with-deep-learning/)]
 * CuPy: NumPy & SciPy for GPU - [[Link](https://cupy.dev/)]
+* shashvatshah9/README-dataset-template.md - [[github](https://gist.github.com/shashvatshah9/5d587605cd087182ccffb46b6cf9e449)]
+* Install latex on VSCode - [[Youtube](https://www.youtube.com/watch?v=PRvuFx_cZyg&ab_channel=NopeIT)]
 
 
 <!-- Run pytorch model on mobile -->
@@ -25,6 +27,8 @@
    <ul>
     <li>C++ Full Course for free ⚡️ - <b>Bro code</b> - [<a href="https://youtu.be/-TkoO8Z07hI?si=chZrX71qagkI3QVA">Youtube</a>]
     <li>C++ Programming Course - Beginner to Advanced - <b>FreeCodeCamp</b> - [<a href="https://www.youtube.com/watch?v=8jLOx1hD3_o&list=PLwwBtBG9sP7BJ8xqz2fp6iZQurfz1BeJW&index=2&t=45947s&pp=gAQBiAQB">Youtube</a>]
+    <li>OpenCV Python Tutorial and Projects - [<a href="https://youtube.com/playlist?list=PLkmvobsnE0GEo-D7DLnrYS1K4OemycX6k&si=6DhOHMB5zqFq5HCR">Youtube</a>]
+
    </ul>
 </details>
 
