@@ -9,7 +9,7 @@
 * CuPy: NumPy & SciPy for GPU - [[Link](https://cupy.dev/)]
 * shashvatshah9/README-dataset-template.md - [[github](https://gist.github.com/shashvatshah9/5d587605cd087182ccffb46b6cf9e449)]
 * Install latex on VSCode - [[Youtube](https://www.youtube.com/watch?v=PRvuFx_cZyg&ab_channel=NopeIT)]
-
+* HOG (Histogram of Oriented Gradients): An Overview - [[Medium](https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f)]
 
 <!-- Run pytorch model on mobile -->
 <details open>
@@ -46,6 +46,14 @@
    <ul>
     <li>How to install OpenCV with CUDA GPU in windows 10 | Python - [<a href="https://www.youtube.com/watch?v=5NwU1MmmqWo&ab_channel=HackersRealm">Youtube</a>]
     <li>Quick and Easy OpenCV Python Installation with Cuda GPU in Under 10 Minutes - [<a href="https://www.youtube.com/watch?v=d8Jx6zO1yw0&t=624s&ab_channel=NicolaiNielsen">Youtube</a>]
+   </ul>
+</details>
+
+<!-- Optimize -->
+<details open>
+   <summary><b>Optimize </b></summary>
+   <ul>
+    <li>Most efficient way to search in list of dicts - [<a href="https://stackoverflow.com/questions/38865201/most-efficient-way-to-search-in-list-of-dicts">Stack Overflow</a>]
    </ul>
 </details>
 
