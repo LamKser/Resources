@@ -57,6 +57,14 @@
    </ul>
 </details>
 
+<!-- NLP -->
+<details>
+   <summary><b>NLP</b></summary>
+   <ul>
+    <li>The complete guide to string similarity algorithms - [<a href="https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7">Medium</a>]
+   </ul>
+</details>
+
 # Papers
 * [Papers](Papers)
 
