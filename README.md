@@ -10,6 +10,7 @@
 * shashvatshah9/README-dataset-template.md - [[github](https://gist.github.com/shashvatshah9/5d587605cd087182ccffb46b6cf9e449)]
 * Install latex on VSCode - [[Youtube](https://www.youtube.com/watch?v=PRvuFx_cZyg&ab_channel=NopeIT)]
 * HOG (Histogram of Oriented Gradients): An Overview - [[Medium](https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f)]
+* Hướng dẫn tất tần tật về Pytorch để làm các bài toán về AI - [[Viblo](https://viblo.asia/p/huong-dan-tat-tan-tat-ve-pytorch-de-lam-cac-bai-toan-ve-ai-YWOZrNkNZQ0)]
 
 <!-- Run pytorch model on mobile -->
 <details open>
@@ -70,7 +71,7 @@
 
 # Data
 * `recognition`
-  * Finger Vein USM (FV-USM) Database: [[Link](http://drfendi.com/2015/12/05/fv-usm-database-download-page/)] - pass: **transkrian**
+  * Finger Vein USM (FV-USM) Database: [[Link](http://drfendi.com/2015/12/05/fv-usm-database-download-page/)]<!-- - pass: **transkrian** -->
   * Finger Vein (Kaggle): [[Link](https://www.kaggle.com/datasets/ryeltsin/finger-vein)]
   * Vera Finger Vein: [[link](https://zenodo.org/records/4575270)]
 
