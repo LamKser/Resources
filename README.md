@@ -11,6 +11,18 @@
 * Install latex on VSCode - [[Youtube](https://www.youtube.com/watch?v=PRvuFx_cZyg&ab_channel=NopeIT)]
 * HOG (Histogram of Oriented Gradients): An Overview - [[Medium](https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f)]
 * Hướng dẫn tất tần tật về Pytorch để làm các bài toán về AI - [[Viblo](https://viblo.asia/p/huong-dan-tat-tan-tat-ve-pytorch-de-lam-cac-bai-toan-ve-ai-YWOZrNkNZQ0)]
+* Machine Learning Operations - [[MLOps](https://ml-ops.org/)]
+* marvelousmlops/mlops-roadmap-2024 - [[Github](https://github.com/marvelousmlops/mlops-roadmap-2024)]
+* Hướng dẫn từ A-Z tự xây dựng ứng dụng với Docker - [[Youtube](https://www.youtube.com/watch?v=Gh1Sgknc6Fg&ab_channel=Vi%E1%BB%87tNguy%E1%BB%85nAI)]
+
+<!-- LLM -->
+<details open>
+   <summary><b>LLM</b></summary>
+   <ul>
+    <li>Python RAG Tutorial (with Local LLMs): AI For Your PDFs: [<a href="https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami">Youtube</a>]
+    <li>RAG From Scratch: [<a href="https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=jIK1Lw2PgTiq63Om">Youtube</a>]
+   </ul>
+</details>
 
 <!-- Run pytorch model on mobile -->
 <details open>
