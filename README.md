@@ -82,7 +82,7 @@
 <details open>
    <summary><b>Libraries</b></summary>
    <ul>
-    <li>pylatexenc (Latex parser for python) - [<a href="[https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7](https://pylatexenc.readthedocs.io/en/latest/)">Home</a>]
+    <li>pylatexenc (Latex parser for python) - [<a href="https://pylatexenc.readthedocs.io/en/latest/">Home</a>]
    </ul>
 </details>
 
