@@ -71,10 +71,18 @@
 </details>
 
 <!-- NLP -->
-<details>
+<details open>
    <summary><b>NLP</b></summary>
    <ul>
     <li>The complete guide to string similarity algorithms - [<a href="https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7">Medium</a>]
+   </ul>
+</details>
+
+<!-- Libraries -->
+<details open>
+   <summary><b>Libraries</b></summary>
+   <ul>
+    <li>pylatexenc (Latex parser for python) - [<a href="[https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7](https://pylatexenc.readthedocs.io/en/latest/)">Home</a>]
    </ul>
 </details>
 
