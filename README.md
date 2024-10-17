@@ -21,6 +21,7 @@
    <ul>
     <li>Python RAG Tutorial (with Local LLMs): AI For Your PDFs: [<a href="https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami">Youtube</a>]
     <li>RAG From Scratch: [<a href="https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=jIK1Lw2PgTiq63Om">Youtube</a>]
+    <li>Fine Tuning | LLM | Custom Dataset: [<a href="https://www.kaggle.com/code/givkashi/fine-tuning-llm-custom-dataset">Kaggle</a>]
    </ul>
 </details>
 
