@@ -16,7 +16,7 @@
 * Hướng dẫn từ A-Z tự xây dựng ứng dụng với Docker - [[Youtube](https://www.youtube.com/watch?v=Gh1Sgknc6Fg&ab_channel=Vi%E1%BB%87tNguy%E1%BB%85nAI)]
 
 <!-- LLM -->
-<details open>
+<details>
    <summary><b>LLM</b></summary>
    <ul>
     <li>Python RAG Tutorial (with Local LLMs): AI For Your PDFs: [<a href="https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami">Youtube</a>]
@@ -26,7 +26,7 @@
 </details>
 
 <!-- Run pytorch model on mobile -->
-<details open>
+<details>
    <summary><b>Run pytorch model on mobile</b></summary>
    <ul>
     <li>Integrating Custom PyTorch Models Into an Android App: [<a href="https://medium.com/mlearning-ai/integrating-custom-pytorch-models-into-an-android-app-a2cdfce14fe8">link</a>]
@@ -36,7 +36,7 @@
 </details>
 
 <!-- Learn -->
-<details open>
+<details>
    <summary><b>Learn</b></summary>
    <ul>
     <li>C++ Full Course for free ⚡️ - <b>Bro code</b> - [<a href="https://youtu.be/-TkoO8Z07hI?si=chZrX71qagkI3QVA">Youtube</a>]
@@ -47,7 +47,7 @@
 </details>
 
 <!-- Arduino - Python -->
-<details open>
+<details>
    <summary><b>Arduino - Python</b></summary>
    <ul>
     <li>Free Tutorials: Using Python with Arduino - [<a href="https://youtube.com/playlist?list=PLGs0VKk2DiYzWURfJCbCGPa8HI0APjBfo&si=odo4fQ84F7i0lywy">Youtube</a>]
@@ -55,7 +55,7 @@
 </details>
 
 <!-- Cuda on Numpy & OpenCV -->
-<details open>
+<details>
    <summary><b>Cuda on Numpy & OpenCV</b></summary>
    <ul>
     <li>How to install OpenCV with CUDA GPU in windows 10 | Python - [<a href="https://www.youtube.com/watch?v=5NwU1MmmqWo&ab_channel=HackersRealm">Youtube</a>]
@@ -64,7 +64,7 @@
 </details>
 
 <!-- Optimize -->
-<details open>
+<details>
    <summary><b>Optimize </b></summary>
    <ul>
     <li>Most efficient way to search in list of dicts - [<a href="https://stackoverflow.com/questions/38865201/most-efficient-way-to-search-in-list-of-dicts">Stack Overflow</a>]
@@ -72,7 +72,7 @@
 </details>
 
 <!-- NLP -->
-<details open>
+<details>
    <summary><b>NLP</b></summary>
    <ul>
     <li>The complete guide to string similarity algorithms - [<a href="https://yassineelkhal.medium.com/the-complete-guide-to-string-similarity-algorithms-1290ad07c6b7">Medium</a>]
@@ -80,10 +80,18 @@
 </details>
 
 <!-- Libraries -->
-<details open>
+<details>
    <summary><b>Libraries</b></summary>
    <ul>
     <li>pylatexenc (Latex parser for python) - [<a href="https://pylatexenc.readthedocs.io/en/latest/">Home</a>]
+   </ul>
+</details>
+
+<!-- EDA -->
+<details>
+   <summary><b>EDA</b></summary>
+   <ul>
+    <li>Example of EDA for real-time data: <b>"Jane Street: EDA of day 0 and feature importance"</b> - [<a href="https://www.kaggle.com/code/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance#The-features">Kaggle</a>]
    </ul>
 </details>
 
