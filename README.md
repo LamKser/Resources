@@ -14,7 +14,8 @@
 * Machine Learning Operations - [[MLOps](https://ml-ops.org/)]
 * marvelousmlops/mlops-roadmap-2024 - [[Github](https://github.com/marvelousmlops/mlops-roadmap-2024)]
 * Hướng dẫn từ A-Z tự xây dựng ứng dụng với Docker - [[Youtube](https://www.youtube.com/watch?v=Gh1Sgknc6Fg&ab_channel=Vi%E1%BB%87tNguy%E1%BB%85nAI)]
-
+* KaggleHub - [[Github](https://github.com/Kaggle/kagglehub)]
+  
 <!-- LLM -->
 <details>
    <summary><b>LLM</b></summary>
